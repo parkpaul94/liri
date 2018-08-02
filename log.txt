@@ -1,0 +1,170 @@
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Wed Jul 25 23:51:33 +0000 2018
+Tweet content: @jk_rowling my fiancé said something peculiar. If the wand chooses the wizard, what if my want is not at Olliviande… https://t.co/A5nddjJeiX
+------------------------
+Created on: Mon Jul 09 00:45:21 +0000 2018
+Tweet content: @AmazonHelp I'm not sure what the question was sorry. 
+
+Order made on July 8. Did same day delivery. 
+Order deliver switched to July 9.
+------------------------
+Created on: Mon Jul 09 00:32:22 +0000 2018
+Tweet content: @AmazonHelp https://t.co/nq7KYw7OTd
+------------------------
+Created on: Mon Jul 09 00:17:19 +0000 2018
+Tweet content: @AmazonHelp ordered an item because it was guaranteed sane day delivery but it now says being delivered tomorrow?
+------------------------
+Created on: Wed Jul 04 05:13:56 +0000 2018
+Tweet content: @NavyFederalHelp I never authorized this transfer.
+------------------------
+Created on: Sun Jun 24 02:44:39 +0000 2018
+Tweet content: @StudentUniverse My mother and I are trying to visit my brother for Basic Training Graduation, am I allowed to purc… https://t.co/b8cARLCWbk
+------------------------
+Created on: Sat Jun 09 14:40:55 +0000 2018
+Tweet content: @NavyFederalHelp accidently paid for something using wrong card and can't get refunded and ended up paying twice. I… https://t.co/H7i2jYkGVi
+------------------------
+Created on: Sun Jun 03 01:53:40 +0000 2018
+Tweet content: @NavyFederalHelp I have requested multiple assistance and no reply.
+------------------------
+Created on: Sun May 13 02:34:09 +0000 2018
+Tweet content: @NavyFederalHelp my credit card is being declined but I have available credit?
+------------------------
+Created on: Tue May 08 01:15:49 +0000 2018
+Tweet content: @GEICO my insurance went up from $305.05 to $510.34 
+
+What is going on?
+------------------------
+Created on: Mon Apr 30 01:12:40 +0000 2018
+Tweet content: @askBBT my fiance would like to refinance her vehicle, and would like to know where she can get more information or if she can do it online.
+------------------------
+Created on: Mon Apr 30 00:38:40 +0000 2018
+Tweet content: @Ally I would like to know possible refinancing options on my vehicles, where would I be able to discuss that?
+------------------------
+Created on: Wed Apr 25 02:39:25 +0000 2018
+Tweet content: @BestBuySupport I got a best buy card, made a purchase. Card never came back. I can't log in to pay because I don't have a card number.
+------------------------
+Created on: Tue Apr 17 19:50:22 +0000 2018
+Tweet content: @BestBuySupport fiance got a credit card from Best Buy to buy a new laptop, never received the card nor any information.
+------------------------
+Created on: Tue Apr 17 18:56:47 +0000 2018
+Tweet content: @Ally I currently have an auto loan through Ally, and would like to trade the vehicle in for a different vehicle.
+------------------------
+Created on: Thu Apr 12 14:59:14 +0000 2018
+Tweet content: @NavyFederalHelp I wanted to see if I can get a pre-approved offer for the car, but am having difficulty finding the option.
+------------------------
+Created on: Thu Apr 12 14:23:01 +0000 2018
+Tweet content: @NavyFederalHelp My fiance and I are looking to purchase a car and trade my old one in.
+------------------------
+Created on: Thu Mar 15 01:45:33 +0000 2018
+Tweet content: @AmazonHelp Why is it that Walmart, Target, and other places is $26 but Amazon is over $40?
+------------------------
+Created on: Thu Mar 15 01:30:25 +0000 2018
+Tweet content: https://t.co/BEH4pGITjv
+------------------------
+Created on: Thu Mar 15 01:30:15 +0000 2018
+Tweet content: https://t.co/ysGZgORKJG
+------------------------
+
+
+User Command: node liri.js movie-this Titanic 
+
+LIRI Response:
+
+------------------------
+Titanic Information:
+------------------------
+
+Movie Title: Titanic
+Year Released: 19 Dec 1997
+IMBD Rating: 7.8
+Rotten Tomatoes Rating: N/A
+Country Produced: USA
+Language: English, Swedish
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+User Command: node liri.js my-tweets
+User Command: node liri.js my-tweets
+
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Wed Jul 25 23:51:33 +0000 2018
+Tweet content: @jk_rowling my fiancé said something peculiar. If the wand chooses the wizard, what if my want is not at Olliviande… https://t.co/A5nddjJeiX
+------------------------
+Created on: Mon Jul 09 00:45:21 +0000 2018
+Tweet content: @AmazonHelp I'm not sure what the question was sorry. 
+
+Order made on July 8. Did same day delivery. 
+Order deliver switched to July 9.
+------------------------
+Created on: Mon Jul 09 00:32:22 +0000 2018
+Tweet content: @AmazonHelp https://t.co/nq7KYw7OTd
+------------------------
+Created on: Mon Jul 09 00:17:19 +0000 2018
+Tweet content: @AmazonHelp ordered an item because it was guaranteed sane day delivery but it now says being delivered tomorrow?
+------------------------
+Created on: Wed Jul 04 05:13:56 +0000 2018
+Tweet content: @NavyFederalHelp I never authorized this transfer.
+------------------------
+Created on: Sun Jun 24 02:44:39 +0000 2018
+Tweet content: @StudentUniverse My mother and I are trying to visit my brother for Basic Training Graduation, am I allowed to purc… https://t.co/b8cARLCWbk
+------------------------
+Created on: Sat Jun 09 14:40:55 +0000 2018
+Tweet content: @NavyFederalHelp accidently paid for something using wrong card and can't get refunded and ended up paying twice. I… https://t.co/H7i2jYkGVi
+------------------------
+Created on: Sun Jun 03 01:53:40 +0000 2018
+Tweet content: @NavyFederalHelp I have requested multiple assistance and no reply.
+------------------------
+Created on: Sun May 13 02:34:09 +0000 2018
+Tweet content: @NavyFederalHelp my credit card is being declined but I have available credit?
+------------------------
+Created on: Tue May 08 01:15:49 +0000 2018
+Tweet content: @GEICO my insurance went up from $305.05 to $510.34 
+
+What is going on?
+------------------------
+Created on: Mon Apr 30 01:12:40 +0000 2018
+Tweet content: @askBBT my fiance would like to refinance her vehicle, and would like to know where she can get more information or if she can do it online.
+------------------------
+Created on: Mon Apr 30 00:38:40 +0000 2018
+Tweet content: @Ally I would like to know possible refinancing options on my vehicles, where would I be able to discuss that?
+------------------------
+Created on: Wed Apr 25 02:39:25 +0000 2018
+Tweet content: @BestBuySupport I got a best buy card, made a purchase. Card never came back. I can't log in to pay because I don't have a card number.
+------------------------
+Created on: Tue Apr 17 19:50:22 +0000 2018
+Tweet content: @BestBuySupport fiance got a credit card from Best Buy to buy a new laptop, never received the card nor any information.
+------------------------
+Created on: Tue Apr 17 18:56:47 +0000 2018
+Tweet content: @Ally I currently have an auto loan through Ally, and would like to trade the vehicle in for a different vehicle.
+------------------------
+Created on: Thu Apr 12 14:59:14 +0000 2018
+Tweet content: @NavyFederalHelp I wanted to see if I can get a pre-approved offer for the car, but am having difficulty finding the option.
+------------------------
+Created on: Thu Apr 12 14:23:01 +0000 2018
+Tweet content: @NavyFederalHelp My fiance and I are looking to purchase a car and trade my old one in.
+------------------------
+Created on: Thu Mar 15 01:45:33 +0000 2018
+Tweet content: @AmazonHelp Why is it that Walmart, Target, and other places is $26 but Amazon is over $40?
+------------------------
+Created on: Thu Mar 15 01:30:25 +0000 2018
+Tweet content: https://t.co/BEH4pGITjv
+------------------------
+Created on: Thu Mar 15 01:30:15 +0000 2018
+Tweet content: https://t.co/ysGZgORKJG
+------------------------
+
+User Command: node liri.js spotify-this-song Hello 
+
