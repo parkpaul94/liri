@@ -1,3 +1,42 @@
+User Command: node liri.js spotify-this-song Hello 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Hello
+Artist: Adele
+Album: Hello
+Preview Here: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null
+
+User Command: node liri.js spotify-this-song Womanizer 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Womanizer
+Artist: Britney Spears
+Album: Circus (Deluxe Version)
+Preview Here: https://p.scdn.co/mp3-preview/40c87bb00fe6bab71f758643b2d1e598c5374410?cid=null
+
+User Command: node liri.js spotify-this-song Toxic 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Toxic
+Artist: Britney Spears
+Album: In The Zone
+Preview Here: https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=null
+
 User Command: node liri.js my-tweets
 
 LIRI Response:
@@ -6,91 +45,188 @@ LIRI Response:
 User Tweets:
 ------------------------
 
-Created on: Wed Jul 25 23:51:33 +0000 2018
-Tweet content: @jk_rowling my fiancé said something peculiar. If the wand chooses the wizard, what if my want is not at Olliviande… https://t.co/A5nddjJeiX
+Created on: Thu Feb 23 09:20:40 +0000 2017
+Tweet content: @kontrol_theory I disagree.The article implies that programming should not be treated as a new fad or the flavor of the season.That's all.
 ------------------------
-Created on: Mon Jul 09 00:45:21 +0000 2018
-Tweet content: @AmazonHelp I'm not sure what the question was sorry. 
+Created on: Thu Feb 16 08:24:13 +0000 2017
+Tweet content: @kontrol_theory The point of the article is to point out that there may be other more suitable career paths that a person may enjoy.
+------------------------
+Created on: Thu Feb 16 08:22:36 +0000 2017
+Tweet content: @kontrol_theory You are correct.But there are many challenges to that career. Unless you're passionate, you may just end up too frustrated.
+------------------------
+Created on: Sun Feb 12 17:25:27 +0000 2017
+Tweet content: The Joel Test: 12 Steps to Better Code
 
-Order made on July 8. Did same day delivery. 
-Order deliver switched to July 9.
+https://t.co/S3o1DeqysZ
 ------------------------
-Created on: Mon Jul 09 00:32:22 +0000 2018
-Tweet content: @AmazonHelp https://t.co/nq7KYw7OTd
+Created on: Sun Feb 12 17:23:30 +0000 2017
+Tweet content: “Don’t Pursue Programming if You Aren’t Passionate About It” by @ebbv https://t.co/UiOTLVoeN4
 ------------------------
-Created on: Mon Jul 09 00:17:19 +0000 2018
-Tweet content: @AmazonHelp ordered an item because it was guaranteed sane day delivery but it now says being delivered tomorrow?
+Created on: Thu Nov 24 12:20:47 +0000 2016
+Tweet content: RT @codeorg: Congrats to Margaret Hamilton, 2016 Presidential Medal of Freedom recipient. She wrote the code that helped the US reach the m…
 ------------------------
-Created on: Wed Jul 04 05:13:56 +0000 2018
-Tweet content: @NavyFederalHelp I never authorized this transfer.
+Created on: Thu Nov 24 06:29:53 +0000 2016
+Tweet content: RT @StevenMJohnston: #Blockchain basics and opportunities w/ @_angrbrd #DZone #BigData https://t.co/Vdwx520eAz https://t.co/zups5s5mCQ
 ------------------------
-Created on: Sun Jun 24 02:44:39 +0000 2018
-Tweet content: @StudentUniverse My mother and I are trying to visit my brother for Basic Training Graduation, am I allowed to purc… https://t.co/b8cARLCWbk
+Created on: Sun Nov 20 06:35:32 +0000 2016
+Tweet content: RT @LogicalDan: Microsoft fortifies commitment to #OpenSource, and becomes #LinuxFoundation Platinum member!  https://t.co/whh1wBfGnG
 ------------------------
-Created on: Sat Jun 09 14:40:55 +0000 2018
-Tweet content: @NavyFederalHelp accidently paid for something using wrong card and can't get refunded and ended up paying twice. I… https://t.co/H7i2jYkGVi
+Created on: Wed Nov 16 16:15:54 +0000 2016
+Tweet content: DZone posted the interview they had with me!! Blockchain Basics and Opportunities With Anna Derbakova https://t.co/E2VCwtHjIe via @DZone
 ------------------------
-Created on: Sun Jun 03 01:53:40 +0000 2018
-Tweet content: @NavyFederalHelp I have requested multiple assistance and no reply.
+Created on: Tue Nov 15 23:06:32 +0000 2016
+Tweet content: RT @CNN: Nike has announced its self-lacing shoe will hit stores in New York City - and they're all yours for just $720 https://t.co/KUKN8x…
 ------------------------
-Created on: Sun May 13 02:34:09 +0000 2018
-Tweet content: @NavyFederalHelp my credit card is being declined but I have available credit?
+Created on: Tue Nov 15 12:57:09 +0000 2016
+Tweet content: RT @dwmiddleware: Use REST management interface for IBM DataPower Gateway appliances. @_angrbrd explains in this 4-part series. https://t.c…
 ------------------------
-Created on: Tue May 08 01:15:49 +0000 2018
-Tweet content: @GEICO my insurance went up from $305.05 to $510.34 
-
-What is going on?
+Created on: Sun Nov 13 16:57:45 +0000 2016
+Tweet content: RT @TechCrunch: Amazon sells out of the NES Classic Edition in (null) seconds https://t.co/xTdXV893Ar
 ------------------------
-Created on: Mon Apr 30 01:12:40 +0000 2018
-Tweet content: @askBBT my fiance would like to refinance her vehicle, and would like to know where she can get more information or if she can do it online.
+Created on: Tue Nov 08 17:01:49 +0000 2016
+Tweet content: RT @cocoacinnamon: Come in with your I voted sticker tomorrow and get extra espresso free in any espresso or chocolate based drink! Tell yo…
 ------------------------
-Created on: Mon Apr 30 00:38:40 +0000 2018
-Tweet content: @Ally I would like to know possible refinancing options on my vehicles, where would I be able to discuss that?
+Created on: Sat Oct 29 05:23:09 +0000 2016
+Tweet content: "Speaking On developerWorks TV At All Things Open 2016" https://t.co/3CMrlh2CoE on @LinkedIn
 ------------------------
-Created on: Wed Apr 25 02:39:25 +0000 2018
-Tweet content: @BestBuySupport I got a best buy card, made a purchase. Card never came back. I can't log in to pay because I don't have a card number.
+Created on: Sat Oct 29 05:06:28 +0000 2016
+Tweet content: "Hyperledger At All Things Open 2016" https://t.co/pbKoPartH7 on @LinkedIn
 ------------------------
-Created on: Tue Apr 17 19:50:22 +0000 2018
-Tweet content: @BestBuySupport fiance got a credit card from Best Buy to buy a new laptop, never received the card nor any information.
+Created on: Sat Oct 29 04:37:19 +0000 2016
+Tweet content: Check me out on developerWorks TV!!! https://t.co/L4Oy1JERBZ
 ------------------------
-Created on: Tue Apr 17 18:56:47 +0000 2018
-Tweet content: @Ally I currently have an auto loan through Ally, and would like to trade the vehicle in for a different vehicle.
+Created on: Sat Oct 29 04:32:02 +0000 2016
+Tweet content: Updated Hyperledger Fabric tutorial for Mac and added All Things Open 2016 presentation! Please get them here: https://t.co/Sk2yYVcSgS!
 ------------------------
-Created on: Thu Apr 12 14:59:14 +0000 2018
-Tweet content: @NavyFederalHelp I wanted to see if I can get a pre-approved offer for the car, but am having difficulty finding the option.
+Created on: Fri Oct 28 22:48:57 +0000 2016
+Tweet content: RT @amershow: @StacieWaleyko @GinnyGhezzo See @_angrbrd 's presentation at https://t.co/tPpQHQX3fx
 ------------------------
-Created on: Thu Apr 12 14:23:01 +0000 2018
-Tweet content: @NavyFederalHelp My fiance and I are looking to purchase a car and trade my old one in.
+Created on: Fri Oct 28 22:32:53 +0000 2016
+Tweet content: @StacieWaleyko and others! Thank you so much for attending my talk at #ATO2016. I'll be sharing my slides shortly! Please stay tuned!
 ------------------------
-Created on: Thu Mar 15 01:45:33 +0000 2018
-Tweet content: @AmazonHelp Why is it that Walmart, Target, and other places is $26 but Amazon is over $40?
-------------------------
-Created on: Thu Mar 15 01:30:25 +0000 2018
-Tweet content: https://t.co/BEH4pGITjv
-------------------------
-Created on: Thu Mar 15 01:30:15 +0000 2018
-Tweet content: https://t.co/ysGZgORKJG
+Created on: Fri Oct 28 22:30:54 +0000 2016
+Tweet content: RT @cspowers: get started with #open technologies from  @gsingers @_angrbrd  @ato2016   @DukeAMO &amp; more https://t.co/OmeT6KFCXX #ato2016
 ------------------------
 
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Thu Feb 23 09:20:40 +0000 2017
+Tweet content: @kontrol_theory I disagree.The article implies that programming should not be treated as a new fad or the flavor of the season.That's all.
+------------------------
+Created on: Thu Feb 16 08:24:13 +0000 2017
+Tweet content: @kontrol_theory The point of the article is to point out that there may be other more suitable career paths that a person may enjoy.
+------------------------
+Created on: Thu Feb 16 08:22:36 +0000 2017
+Tweet content: @kontrol_theory You are correct.But there are many challenges to that career. Unless you're passionate, you may just end up too frustrated.
+------------------------
+Created on: Sun Feb 12 17:25:27 +0000 2017
+Tweet content: The Joel Test: 12 Steps to Better Code
+
+https://t.co/S3o1DeqysZ
+------------------------
+Created on: Sun Feb 12 17:23:30 +0000 2017
+Tweet content: “Don’t Pursue Programming if You Aren’t Passionate About It” by @ebbv https://t.co/UiOTLVoeN4
+------------------------
+Created on: Thu Nov 24 12:20:47 +0000 2016
+Tweet content: RT @codeorg: Congrats to Margaret Hamilton, 2016 Presidential Medal of Freedom recipient. She wrote the code that helped the US reach the m…
+------------------------
+Created on: Thu Nov 24 06:29:53 +0000 2016
+Tweet content: RT @StevenMJohnston: #Blockchain basics and opportunities w/ @_angrbrd #DZone #BigData https://t.co/Vdwx520eAz https://t.co/zups5s5mCQ
+------------------------
+Created on: Sun Nov 20 06:35:32 +0000 2016
+Tweet content: RT @LogicalDan: Microsoft fortifies commitment to #OpenSource, and becomes #LinuxFoundation Platinum member!  https://t.co/whh1wBfGnG
+------------------------
+Created on: Wed Nov 16 16:15:54 +0000 2016
+Tweet content: DZone posted the interview they had with me!! Blockchain Basics and Opportunities With Anna Derbakova https://t.co/E2VCwtHjIe via @DZone
+------------------------
+Created on: Tue Nov 15 23:06:32 +0000 2016
+Tweet content: RT @CNN: Nike has announced its self-lacing shoe will hit stores in New York City - and they're all yours for just $720 https://t.co/KUKN8x…
+------------------------
+Created on: Tue Nov 15 12:57:09 +0000 2016
+Tweet content: RT @dwmiddleware: Use REST management interface for IBM DataPower Gateway appliances. @_angrbrd explains in this 4-part series. https://t.c…
+------------------------
+Created on: Sun Nov 13 16:57:45 +0000 2016
+Tweet content: RT @TechCrunch: Amazon sells out of the NES Classic Edition in (null) seconds https://t.co/xTdXV893Ar
+------------------------
+Created on: Tue Nov 08 17:01:49 +0000 2016
+Tweet content: RT @cocoacinnamon: Come in with your I voted sticker tomorrow and get extra espresso free in any espresso or chocolate based drink! Tell yo…
+------------------------
+Created on: Sat Oct 29 05:23:09 +0000 2016
+Tweet content: "Speaking On developerWorks TV At All Things Open 2016" https://t.co/3CMrlh2CoE on @LinkedIn
+------------------------
+Created on: Sat Oct 29 05:06:28 +0000 2016
+Tweet content: "Hyperledger At All Things Open 2016" https://t.co/pbKoPartH7 on @LinkedIn
+------------------------
+Created on: Sat Oct 29 04:37:19 +0000 2016
+Tweet content: Check me out on developerWorks TV!!! https://t.co/L4Oy1JERBZ
+------------------------
+Created on: Sat Oct 29 04:32:02 +0000 2016
+Tweet content: Updated Hyperledger Fabric tutorial for Mac and added All Things Open 2016 presentation! Please get them here: https://t.co/Sk2yYVcSgS!
+------------------------
+Created on: Fri Oct 28 22:48:57 +0000 2016
+Tweet content: RT @amershow: @StacieWaleyko @GinnyGhezzo See @_angrbrd 's presentation at https://t.co/tPpQHQX3fx
+------------------------
+Created on: Fri Oct 28 22:32:53 +0000 2016
+Tweet content: @StacieWaleyko and others! Thank you so much for attending my talk at #ATO2016. I'll be sharing my slides shortly! Please stay tuned!
+------------------------
+Created on: Fri Oct 28 22:30:54 +0000 2016
+Tweet content: RT @cspowers: get started with #open technologies from  @gsingers @_angrbrd  @ato2016   @DukeAMO &amp; more https://t.co/OmeT6KFCXX #ato2016
+------------------------
 
 User Command: node liri.js movie-this Titanic 
 
 LIRI Response:
 
 ------------------------
-Titanic Information:
+Movie Information:
 ------------------------
 
 Movie Title: Titanic
 Year Released: 19 Dec 1997
-IMBD Rating: 7.8
-Rotten Tomatoes Rating: N/A
+IMBD Rating: 7.7
 Country Produced: USA
-Language: English, Swedish
+Language: English
+Plot: 84 years later, a 101-year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.
 Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
-User Command: node liri.js my-tweets
-User Command: node liri.js my-tweets
+Rotten Tomatoes Rating: 8.0
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/titanic/
 
+User Command: node liri.js movie-this The Notebook 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Notebook
+Year Released: 25 Jun 2004
+IMBD Rating: 7.9
+Country Produced: USA
+Language: English
+Plot: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.
+Actors: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner
+Rotten Tomatoes Rating: 5.7
+Rotten Tomatoes URL: https://www.rottentomatoes.com/m/notebook
+
+User Command: node liri.js spotify-this-song Vogue 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Vogue
+Artist: Madonna
+Album: Celebration (double disc version)
+Preview Here: https://p.scdn.co/mp3-preview/6f927c9da5cde0a408a6f939d07174e83e1fa2fc?cid=null
 
 User Command: node liri.js my-tweets
 
@@ -100,71 +236,415 @@ LIRI Response:
 User Tweets:
 ------------------------
 
-Created on: Wed Jul 25 23:51:33 +0000 2018
-Tweet content: @jk_rowling my fiancé said something peculiar. If the wand chooses the wizard, what if my want is not at Olliviande… https://t.co/A5nddjJeiX
+Created on: Thu Feb 23 09:20:40 +0000 2017
+Tweet content: @kontrol_theory I disagree.The article implies that programming should not be treated as a new fad or the flavor of the season.That's all.
 ------------------------
-Created on: Mon Jul 09 00:45:21 +0000 2018
-Tweet content: @AmazonHelp I'm not sure what the question was sorry. 
+Created on: Thu Feb 16 08:24:13 +0000 2017
+Tweet content: @kontrol_theory The point of the article is to point out that there may be other more suitable career paths that a person may enjoy.
+------------------------
+Created on: Thu Feb 16 08:22:36 +0000 2017
+Tweet content: @kontrol_theory You are correct.But there are many challenges to that career. Unless you're passionate, you may just end up too frustrated.
+------------------------
+Created on: Sun Feb 12 17:25:27 +0000 2017
+Tweet content: The Joel Test: 12 Steps to Better Code
 
-Order made on July 8. Did same day delivery. 
-Order deliver switched to July 9.
+https://t.co/S3o1DeqysZ
 ------------------------
-Created on: Mon Jul 09 00:32:22 +0000 2018
-Tweet content: @AmazonHelp https://t.co/nq7KYw7OTd
+Created on: Sun Feb 12 17:23:30 +0000 2017
+Tweet content: “Don’t Pursue Programming if You Aren’t Passionate About It” by @ebbv https://t.co/UiOTLVoeN4
 ------------------------
-Created on: Mon Jul 09 00:17:19 +0000 2018
-Tweet content: @AmazonHelp ordered an item because it was guaranteed sane day delivery but it now says being delivered tomorrow?
+Created on: Thu Nov 24 12:20:47 +0000 2016
+Tweet content: RT @codeorg: Congrats to Margaret Hamilton, 2016 Presidential Medal of Freedom recipient. She wrote the code that helped the US reach the m…
 ------------------------
-Created on: Wed Jul 04 05:13:56 +0000 2018
-Tweet content: @NavyFederalHelp I never authorized this transfer.
+Created on: Thu Nov 24 06:29:53 +0000 2016
+Tweet content: RT @StevenMJohnston: #Blockchain basics and opportunities w/ @_angrbrd #DZone #BigData https://t.co/Vdwx520eAz https://t.co/zups5s5mCQ
 ------------------------
-Created on: Sun Jun 24 02:44:39 +0000 2018
-Tweet content: @StudentUniverse My mother and I are trying to visit my brother for Basic Training Graduation, am I allowed to purc… https://t.co/b8cARLCWbk
+Created on: Sun Nov 20 06:35:32 +0000 2016
+Tweet content: RT @LogicalDan: Microsoft fortifies commitment to #OpenSource, and becomes #LinuxFoundation Platinum member!  https://t.co/whh1wBfGnG
 ------------------------
-Created on: Sat Jun 09 14:40:55 +0000 2018
-Tweet content: @NavyFederalHelp accidently paid for something using wrong card and can't get refunded and ended up paying twice. I… https://t.co/H7i2jYkGVi
+Created on: Wed Nov 16 16:15:54 +0000 2016
+Tweet content: DZone posted the interview they had with me!! Blockchain Basics and Opportunities With Anna Derbakova https://t.co/E2VCwtHjIe via @DZone
 ------------------------
-Created on: Sun Jun 03 01:53:40 +0000 2018
-Tweet content: @NavyFederalHelp I have requested multiple assistance and no reply.
+Created on: Tue Nov 15 23:06:32 +0000 2016
+Tweet content: RT @CNN: Nike has announced its self-lacing shoe will hit stores in New York City - and they're all yours for just $720 https://t.co/KUKN8x…
 ------------------------
-Created on: Sun May 13 02:34:09 +0000 2018
-Tweet content: @NavyFederalHelp my credit card is being declined but I have available credit?
+Created on: Tue Nov 15 12:57:09 +0000 2016
+Tweet content: RT @dwmiddleware: Use REST management interface for IBM DataPower Gateway appliances. @_angrbrd explains in this 4-part series. https://t.c…
 ------------------------
-Created on: Tue May 08 01:15:49 +0000 2018
-Tweet content: @GEICO my insurance went up from $305.05 to $510.34 
+Created on: Sun Nov 13 16:57:45 +0000 2016
+Tweet content: RT @TechCrunch: Amazon sells out of the NES Classic Edition in (null) seconds https://t.co/xTdXV893Ar
+------------------------
+Created on: Tue Nov 08 17:01:49 +0000 2016
+Tweet content: RT @cocoacinnamon: Come in with your I voted sticker tomorrow and get extra espresso free in any espresso or chocolate based drink! Tell yo…
+------------------------
+Created on: Sat Oct 29 05:23:09 +0000 2016
+Tweet content: "Speaking On developerWorks TV At All Things Open 2016" https://t.co/3CMrlh2CoE on @LinkedIn
+------------------------
+Created on: Sat Oct 29 05:06:28 +0000 2016
+Tweet content: "Hyperledger At All Things Open 2016" https://t.co/pbKoPartH7 on @LinkedIn
+------------------------
+Created on: Sat Oct 29 04:37:19 +0000 2016
+Tweet content: Check me out on developerWorks TV!!! https://t.co/L4Oy1JERBZ
+------------------------
+Created on: Sat Oct 29 04:32:02 +0000 2016
+Tweet content: Updated Hyperledger Fabric tutorial for Mac and added All Things Open 2016 presentation! Please get them here: https://t.co/Sk2yYVcSgS!
+------------------------
+Created on: Fri Oct 28 22:48:57 +0000 2016
+Tweet content: RT @amershow: @StacieWaleyko @GinnyGhezzo See @_angrbrd 's presentation at https://t.co/tPpQHQX3fx
+------------------------
+Created on: Fri Oct 28 22:32:53 +0000 2016
+Tweet content: @StacieWaleyko and others! Thank you so much for attending my talk at #ATO2016. I'll be sharing my slides shortly! Please stay tuned!
+------------------------
+Created on: Fri Oct 28 22:30:54 +0000 2016
+Tweet content: RT @cspowers: get started with #open technologies from  @gsingers @_angrbrd  @ato2016   @DukeAMO &amp; more https://t.co/OmeT6KFCXX #ato2016
+------------------------
 
-What is going on?
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
 ------------------------
-Created on: Mon Apr 30 01:12:40 +0000 2018
-Tweet content: @askBBT my fiance would like to refinance her vehicle, and would like to know where she can get more information or if she can do it online.
+Song Information:
 ------------------------
-Created on: Mon Apr 30 00:38:40 +0000 2018
-Tweet content: @Ally I would like to know possible refinancing options on my vehicles, where would I be able to discuss that?
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js movie-this The Notebook
+
+LIRI Response:
+
 ------------------------
-Created on: Wed Apr 25 02:39:25 +0000 2018
-Tweet content: @BestBuySupport I got a best buy card, made a purchase. Card never came back. I can't log in to pay because I don't have a card number.
+Movie Information:
 ------------------------
-Created on: Tue Apr 17 19:50:22 +0000 2018
-Tweet content: @BestBuySupport fiance got a credit card from Best Buy to buy a new laptop, never received the card nor any information.
+
+Movie Title: The Notebook
+Year Released: 25 Jun 2004
+IMBD Rating: 7.9
+Country Produced: USA
+Language: English
+Plot: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.
+Actors: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner
+Rotten Tomatoes Rating: 5.7
+Rotten Tomatoes URL: https://www.rottentomatoes.com/m/notebook
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song Like A Prayer
+
+LIRI Response:
+
 ------------------------
-Created on: Tue Apr 17 18:56:47 +0000 2018
-Tweet content: @Ally I currently have an auto loan through Ally, and would like to trade the vehicle in for a different vehicle.
+Song Information:
 ------------------------
-Created on: Thu Apr 12 14:59:14 +0000 2018
-Tweet content: @NavyFederalHelp I wanted to see if I can get a pre-approved offer for the car, but am having difficulty finding the option.
+
+Song Name: Like A Prayer
+Artist: Madonna
+Album: Celebration (double disc version)
+Preview Here: https://p.scdn.co/mp3-preview/b56a70770267b00ccae13c2e8c8a34ed54627d02?cid=null
+
+User Command: /usr/local/bin/node,/Users/anya/Projects/UNC_Coding_Bootcamp/liri-node-app/liri.js,dfdfdfdfd
+
+User Command: /usr/local/bin/node,/Users/anya/Projects/UNC_Coding_Bootcamp/liri-node-app/liri.js,dfdfdfdfd
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+User Command: /usr/local/bin/node,/Users/anya/Projects/UNC_Coding_Bootcamp/liri-node-app/liri.js,no-such-command,hello,test
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+
+User Command: /usr/local/bin/node,/Users/anya/Projects/UNC_Coding_Bootcamp/liri-node-app/liri.js,no-such-commands,test
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/bin/node,/Users/anya/Projects/UNC_Coding_Bootcamp/liri-node-app/liri.js,BOGUS
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/bin/node,/Users/anya/Projects/UNC_Coding_Bootcamp/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
 ------------------------
-Created on: Thu Apr 12 14:23:01 +0000 2018
-Tweet content: @NavyFederalHelp My fiance and I are looking to purchase a car and trade my old one in.
+User Tweets:
 ------------------------
-Created on: Thu Mar 15 01:45:33 +0000 2018
-Tweet content: @AmazonHelp Why is it that Walmart, Target, and other places is $26 but Amazon is over $40?
+
+Created on: Thu Feb 23 09:20:40 +0000 2017
+Tweet content: @kontrol_theory I disagree.The article implies that programming should not be treated as a new fad or the flavor of the season.That's all.
 ------------------------
-Created on: Thu Mar 15 01:30:25 +0000 2018
-Tweet content: https://t.co/BEH4pGITjv
+Created on: Thu Feb 16 08:24:13 +0000 2017
+Tweet content: @kontrol_theory The point of the article is to point out that there may be other more suitable career paths that a person may enjoy.
 ------------------------
-Created on: Thu Mar 15 01:30:15 +0000 2018
-Tweet content: https://t.co/ysGZgORKJG
+Created on: Thu Feb 16 08:22:36 +0000 2017
+Tweet content: @kontrol_theory You are correct.But there are many challenges to that career. Unless you're passionate, you may just end up too frustrated.
 ------------------------
+Created on: Sun Feb 12 17:25:27 +0000 2017
+Tweet content: The Joel Test: 12 Steps to Better Code
+
+https://t.co/S3o1DeqysZ
+------------------------
+Created on: Sun Feb 12 17:23:30 +0000 2017
+Tweet content: “Don’t Pursue Programming if You Aren’t Passionate About It” by @ebbv https://t.co/UiOTLVoeN4
+------------------------
+Created on: Thu Nov 24 12:20:47 +0000 2016
+Tweet content: RT @codeorg: Congrats to Margaret Hamilton, 2016 Presidential Medal of Freedom recipient. She wrote the code that helped the US reach the m…
+------------------------
+Created on: Thu Nov 24 06:29:53 +0000 2016
+Tweet content: RT @StevenMJohnston: #Blockchain basics and opportunities w/ @_angrbrd #DZone #BigData https://t.co/Vdwx520eAz https://t.co/zups5s5mCQ
+------------------------
+Created on: Sun Nov 20 06:35:32 +0000 2016
+Tweet content: RT @LogicalDan: Microsoft fortifies commitment to #OpenSource, and becomes #LinuxFoundation Platinum member!  https://t.co/whh1wBfGnG
+------------------------
+Created on: Wed Nov 16 16:15:54 +0000 2016
+Tweet content: DZone posted the interview they had with me!! Blockchain Basics and Opportunities With Anna Derbakova https://t.co/E2VCwtHjIe via @DZone
+------------------------
+Created on: Tue Nov 15 23:06:32 +0000 2016
+Tweet content: RT @CNN: Nike has announced its self-lacing shoe will hit stores in New York City - and they're all yours for just $720 https://t.co/KUKN8x…
+------------------------
+Created on: Tue Nov 15 12:57:09 +0000 2016
+Tweet content: RT @dwmiddleware: Use REST management interface for IBM DataPower Gateway appliances. @_angrbrd explains in this 4-part series. https://t.c…
+------------------------
+Created on: Sun Nov 13 16:57:45 +0000 2016
+Tweet content: RT @TechCrunch: Amazon sells out of the NES Classic Edition in (null) seconds https://t.co/xTdXV893Ar
+------------------------
+Created on: Tue Nov 08 17:01:49 +0000 2016
+Tweet content: RT @cocoacinnamon: Come in with your I voted sticker tomorrow and get extra espresso free in any espresso or chocolate based drink! Tell yo…
+------------------------
+Created on: Sat Oct 29 05:23:09 +0000 2016
+Tweet content: "Speaking On developerWorks TV At All Things Open 2016" https://t.co/3CMrlh2CoE on @LinkedIn
+------------------------
+Created on: Sat Oct 29 05:06:28 +0000 2016
+Tweet content: "Hyperledger At All Things Open 2016" https://t.co/pbKoPartH7 on @LinkedIn
+------------------------
+Created on: Sat Oct 29 04:37:19 +0000 2016
+Tweet content: Check me out on developerWorks TV!!! https://t.co/L4Oy1JERBZ
+------------------------
+Created on: Sat Oct 29 04:32:02 +0000 2016
+Tweet content: Updated Hyperledger Fabric tutorial for Mac and added All Things Open 2016 presentation! Please get them here: https://t.co/Sk2yYVcSgS!
+------------------------
+Created on: Fri Oct 28 22:48:57 +0000 2016
+Tweet content: RT @amershow: @StacieWaleyko @GinnyGhezzo See @_angrbrd 's presentation at https://t.co/tPpQHQX3fx
+------------------------
+Created on: Fri Oct 28 22:32:53 +0000 2016
+Tweet content: @StacieWaleyko and others! Thank you so much for attending my talk at #ATO2016. I'll be sharing my slides shortly! Please stay tuned!
+------------------------
+Created on: Fri Oct 28 22:30:54 +0000 2016
+Tweet content: RT @cspowers: get started with #open technologies from  @gsingers @_angrbrd  @ato2016   @DukeAMO &amp; more https://t.co/OmeT6KFCXX #ato2016
+------------------------
+
+User Command: node liri.js spotify-this-song Yellow Submarine 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Yellow Submarine - Remastered
+Artist: The Beatles
+Album: Yellow Submarine (Remastered)
+Preview Here: https://p.scdn.co/mp3-preview/8f71f0450df2a4c1a5d3192c102285ae48c8fc4c?cid=null
+
+User Command: node liri.js movie-this Pineapple Express 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Pineapple Express
+Year Released: 06 Aug 2008
+IMBD Rating: 7.0
+Country Produced: USA
+Language: English, Cantonese, Korean
+Plot: Lazy court-process clerk and stoner Dale Denton has only one reason to visit his equally lazy dealer Saul Silver: to purchase weed, specifically, a rare new strain called Pineapple Express. But when Dale becomes the only witness to a murder by a crooked cop and the city's most dangerous drug lord, he panics and dumps his roach of Pineapple Express at the scene. Dale now has another reason to visit Saul: to find out if the weed is so rare that it can be traced back to him--and it is. As Dale and Saul run for their lives, they quickly discover that they're not suffering from weed-fueled paranoia: incredibly, the bad guys really are hot on their trail and trying to figure out the fastest way to kill them both. All aboard the Pineapple Express.
+Actors: Seth Rogen, James Franco, Danny McBride, Kevin Corrigan
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/pineapple_2008/
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song Frozen Madonna
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Frozen
+Artist: Madonna
+Album: Ray Of Light (U.S. Version)
+Preview Here: https://p.scdn.co/mp3-preview/c698b62932988c57baf03ead79aa49eabc669ea0?cid=null
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+User Command: /usr/local/Cellar/node/9.5.0/bin/node,/Users/paul/Desktop/Final Homework/untitled folder/liri-node-app/liri
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Mon Jul 16 15:25:37 +0000 2018
+Tweet content: RT @gaya3rathod: At the @TriangleWiSTEM panel talk and tour at @BlueCrossNC held for their interns! Inspiring to listen to these women’s st…
+------------------------
+Created on: Tue May 08 03:02:38 +0000 2018
+Tweet content: RT @mashable: Desmond Is Amazing is the future and we're here for it https://t.co/rKHD3lbPdS
+------------------------
+Created on: Tue May 08 02:55:15 +0000 2018
+Tweet content: @lisanke @IEEEorg @ncsu Thanks @lisanke it was great to see you tonight!
+------------------------
+Created on: Sat May 05 21:33:35 +0000 2018
+Tweet content: RT @mnicolecantley: I had a chance to interview @_angrbrd recently and was in total awe #womenintech #girlswhocode https://t.co/nwYjplymds
+------------------------
+Created on: Sat May 05 04:10:31 +0000 2018
+Tweet content: Check out my BB8 build \:-]/!! https://t.co/1W4FoS2H5q
+------------------------
+Created on: Tue Mar 20 12:06:51 +0000 2018
+Tweet content: RT @jkriggins: If you've ever been on-call or most importantly put someone on call, you had better read @mipsytipsy with tips on how best t…
+------------------------
+Created on: Fri Mar 16 16:25:58 +0000 2018
+Tweet content: @GinnyGhezzo @AllThingsOpen @HQRaleigh @CannonRoom @OS101Series @GinnyGhezzo I was just thinking about you last nig… https://t.co/oOHxrU0vF2
+------------------------
+Created on: Fri Mar 16 14:48:32 +0000 2018
+Tweet content: @AllThingsOpen @HQRaleigh @CannonRoom @OS101Series Thanks, all for your support! It was great to see everyone yeste… https://t.co/5TuYIRmdv0
+------------------------
+Created on: Fri Mar 16 04:56:59 +0000 2018
+Tweet content: RT @AllThingsOpen: Anna Derbakova @_angrbrd speaking to a full house tonight. A world-class presentation  #blockchain101  @HQRaleigh @Canno…
+------------------------
+Created on: Fri Mar 16 04:55:53 +0000 2018
+Tweet content: RT @arturomaltos: Can't wait to see @_angrbrd talking about cryptocurrencies and blockchain
+------------------------
+Created on: Tue Feb 20 14:48:35 +0000 2018
+Tweet content: RT @AllThingsOpen: Thank you to everyone who participated at #OpenSource101- Raleigh! From our volunteers, to the speakers and sponsors, an…
+------------------------
+Created on: Sat Feb 17 16:16:11 +0000 2018
+Tweet content: Looking forward to speaking on blockchain @2pm on the main stage! Looking forward to seeing everyone there.… https://t.co/dceRnaTJqF
+------------------------
+Created on: Fri Feb 02 06:29:26 +0000 2018
+Tweet content: @lighteningdrake The good 'ol RTFM :-].
+------------------------
+Created on: Fri Feb 02 06:27:36 +0000 2018
+Tweet content: It's great to represent @BCBSNC as well at all of these events :-]. https://t.co/wMj67O9lkr
+------------------------
+Created on: Fri Feb 02 06:26:40 +0000 2018
+Tweet content: That's me \ :-] /!! https://t.co/G6x9nKDHbi
+------------------------
+Created on: Tue Jan 23 13:35:28 +0000 2018
+Tweet content: Yeeey I’ll be speaking there :-]! #OpenSource101 #OpenSource https://t.co/Wjuvb08DgB
+------------------------
+Created on: Sun Jan 21 02:58:32 +0000 2018
+Tweet content: RT @UNC: Name something prettier than Chapel Hill covered in snow. We'll wait. 😍 https://t.co/T6bYmwBEab
+------------------------
+Created on: Fri Jan 19 22:32:37 +0000 2018
+Tweet content: Check out this Meetup: RIoT 2018 Kickoff - Blockchain Delivers Security and Efficiency to IoT… https://t.co/Yz4fpQ9JmZ
+------------------------
+Created on: Fri Jan 19 05:24:37 +0000 2018
+Tweet content: @JenWike @JenWike that sounds great! I would love to contribute and will definitely reach back out to you about tha… https://t.co/mddJBlwkh8
+------------------------
+Created on: Thu Jan 18 16:50:55 +0000 2018
+Tweet content: Self-healing skin for robots! Seriously!? https://t.co/joXs1xYmAh
+------------------------
+
+User Command: /usr/local/Cellar/node/9.5.0/bin/node,/Users/paul/Desktop/Final Homework/untitled folder/liri-node-app/liri
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song I still 
+
+User Command: node liri.js spotify-this-song I still 
+
+User Command: node liri.js spotify-this-song I still 
+
+User Command: /usr/local/Cellar/node/9.5.0/bin/node,/Users/paul/Desktop/Final Homework/untitled folder/liri-node-app/liri
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
 
 User Command: node liri.js spotify-this-song Hello 
 

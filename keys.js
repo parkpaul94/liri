@@ -4,9 +4,3 @@ exports.twitterKeys = {
   access_token_key: '757763396972445696-IXzAYCtbkd9MiF7h9xEZjxdRxGq6i1P',
   access_token_secret: 'GEaGG6XP0vXwd6pD3MAYERClJsRWsheEV4LRzhMRaRluA',
 }
-
-exports.spotify = {
-    id: process.env.SPOTIFY_ID,
-    secret: process.env.SPOTIFY_SECRET
-  };
-  
